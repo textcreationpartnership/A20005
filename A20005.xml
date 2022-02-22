@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The debate and stryfe betwene somer and wynter with the estate present of man.</title>
+            <title>Debat de liver et de leste. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1528</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20005</idno>
+            <idno type="STC">STC 6445</idno>
+            <idno type="STC">ESTC S109519</idno>
+            <idno type="EEBO-CITATION">99845166</idno>
+            <idno type="PROQUEST">99845166</idno>
+            <idno type="VID">10052</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10052)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 34:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The debate and stryfe betwene somer and wynter with the estate present of man.</title>
+                  <title>Debat de liver et de leste. English.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprynted by me laurens andrew These bookes be for to sell [by R. Wyer?] at the signe of seynt Ioh[a]n Euangelyst, in saynt Martyns parysshe besyde Charynge crosse,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>[1528?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of: Le debat de liver et de leste.</note>
+                  <note>Imprint from colophon; bookseller's name and publication date suggested by STC.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seasons --  Early works to 1800.</term>
+               <term>Man (Christian theology) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10052:1" rendition="simple:additions"/>
+            <pb facs="tcp:10052:1"/>
+            <p>¶The debate and ſtryfe betwene Somer and wynter with the eſtate preſent of Man.</p>
+            <p>
+               <figure>
+                  <figDesc>anthropomorphic representation of the seasons of winter and summer</figDesc>
+                  <figure>
+                     <figDesc>depiction of winter</figDesc>
+                     <head>Wynter</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of summer</figDesc>
+                     <head>Somer</head>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:10052:2"/>
+            <sp>
+               <speaker>Somer ſpekyth firſt</speaker>
+               <l>EVery thynge of my comynge is deſirous</l>
+               <l>For I cauſe the trew louers hartis to be amerous</l>
+               <l>All birdes by me / renew their ſonges glorious</l>
+               <l>In the ſhadow / vnder my bowes grene &amp; copious</l>
+            </sp>
+            <sp>
+               <speaker>wynter</speaker>
+               <l>Frende what be ye / that maketh ſo great boſte</l>
+               <l>Saynge that you haue all at wyll on your coſte</l>
+               <l>Be you ſo valiau<g ref="char:cmbAbbrStroke">̄</g>t as ye ſay / &amp; of ſo greate bownte</l>
+               <l>That ſo great ioye demeaneth of what contre be ye</l>
+            </sp>
+            <sp>
+               <speaker>Somer</speaker>
+               <l>Frende why demaunde you of my hye eſtate</l>
+               <l>Of god and his mother / I am very puyſant create</l>
+               <l>In ſo moche that all the worlde dothe me great honoure</l>
+               <l>I am tyme of ſomer to all creatures great pleſure</l>
+            </sp>
+            <sp>
+               <speaker>wynter</speaker>
+               <l>Somer thou doeſt greate wronge / to boſte ſo as I trow</l>
+               <l>If thou canſt no anſwere make / to that that I wolde know</l>
+               <l>wherfore ſholde the worlde / to the do ſuch honour here</l>
+               <l>Fro deth to life / canſt not thou reiſe the ded leyd on bere</l>
+            </sp>
+            <sp>
+               <speaker>Somer</speaker>
+               <l>Frende &amp; what art thou to whome I ſhulde anſwere</l>
+               <l>Thou art very olde as thynketh me go ſhaue thy here</l>
+               <l>I trow thou art very colde for froſen is thy cote</l>
+               <l>As great a fyer nedfull is for the as wolde make an yron hote</l>
+            </sp>
+            <sp>
+               <speaker>wynter</speaker>
+               <l>Somer / I am named wynter that in to many contres</l>
+               <l>Sende forth of my goodes / rayne froſt &amp; ſnowes</l>
+               <l>where ſo euer that I am / is founde often great colde</l>
+               <l>I make riche men were furred gownes / &amp; ſpe<g ref="char:cmbAbbrStroke">̄</g>d ſom of their golde</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:10052:2"/>
+               <speaker>¶Somer</speaker>
+               <l>wynter loued as I am / canſt thou in no wyſe be</l>
+               <l>Thorow me cometh good wyne / &amp; corne &amp; good fruites gret ple<g ref="char:cmbAbbrStroke">̄</g>te</l>
+               <l>But thorow the all theis goodis be waſted &amp; deſtroied</l>
+               <l>Thou cauſeſt the people / ſuffer moche wo / it can not be denyed</l>
+            </sp>
+            <sp>
+               <speaker>¶Wynter</speaker>
+               <l>Somer yf that I were not / thou ſholdeſt be made full lene</l>
+               <l>By many a beſte venymus / of the which I make the clene</l>
+               <l>Of ſnakes / adders / &amp; ſtynkynge wormes &amp; of mamy a flie</l>
+               <l>From the I make clere delyueraunce by my great curteſye</l>
+            </sp>
+            <sp>
+               <speaker>¶Somer</speaker>
+               <l>Wynter this that thou ſayeſt / is not worth a drope of rayne</l>
+               <l>Euery thynge reioyſeth my comynge and therof is right fayne</l>
+               <l>Thou cauſeſt all thynges to be kepte in mewe</l>
+               <l>Beſtis birdis &amp; floures / by the leſe all their Ioy and hewe</l>
+            </sp>
+            <sp>
+               <speaker>¶Wynter</speaker>
+               <l>Somer thou art not beloued but of the pore and nedy</l>
+               <l>That with great payne get their lyuyng / and therto be not ſpedy</l>
+               <l>They haue no wyll to labour / in felde nor in garyſone</l>
+               <l>But only to ſpoyll of their clothes / &amp; lowſe them at thy ſo<g ref="char:cmbAbbrStroke">̄</g>ne</l>
+            </sp>
+            <sp>
+               <speaker>¶Somer</speaker>
+               <l>Wynter all thy ſaynge / is not worth a here of wull</l>
+               <l>I haue the ſwete nyghtyngale / that ſyngeth with notes full</l>
+               <l>Prayng euery louer / that he to loue do his payne</l>
+               <l>Who can than holde hym ſelfe fro loue / nother fre nor vilayne</l>
+            </sp>
+            <sp>
+               <speaker>¶Wynter</speaker>
+               <l>Somer theis pleſures thou ſpekiſt of / be not profitable</l>
+               <l>I loue better the good wynes / &amp; good ſwete metes vpon my table</l>
+               <l>That is to me more pleſaunt / agreable &amp; more Ioyous delyght</l>
+               <l>Than ſonges of byrdes / &amp; theſe louers Ioye that often be lyght</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:10052:3"/>
+               <speaker>Somer</speaker>
+               <l>wynter I haue yonge damſels that haue theyr breſtes whyte</l>
+               <l>That go to gader the fayr flowres with their louers bryghte</l>
+               <l>The whiche ſwetely kyſeth them laughynge merely</l>
+               <l>And than go they thens glad &amp; gay ſyngynge Ioyfully</l>
+            </sp>
+            <sp>
+               <speaker>wynter</speaker>
+               <l>I haue more of my eaſe than thou haſt of delyghtes</l>
+               <l>I haue my chambres made pleſaunte and paynted for all ſyghtes</l>
+               <l>There is no people in the worlde greate nor ſmall</l>
+               <l>Beſtys and byrdes wythout nombre but be paynted on the wall</l>
+            </sp>
+            <sp>
+               <speaker>Somer</speaker>
+               <l>Wyntyr all thy deſyre is the belly to fyll</l>
+               <l>Bett were to be in a grene herbre where one may haue his wyll</l>
+               <l>His trew loue to enbrace &amp; to kyſſe ſwete</l>
+               <l>Than to be at the fyre in chafynge of his fete</l>
+            </sp>
+            <sp>
+               <speaker>Wynter</speaker>
+               <l>Somer in this good tyme I haue great aſſembles</l>
+               <l>I haue burgeſes &amp; marchantes with well furred robes</l>
+               <l>Futred hoſe &amp; good mantles &amp; good cheynes of golde</l>
+               <l>For me they make a great fyer to chere my bonys olde</l>
+            </sp>
+            <sp>
+               <speaker>Somer</speaker>
+               <l>Wynter thow ſayeſt trew of god by thow accurſed</l>
+               <l>Thou ſellyſt in to exyle my goodes &amp; mone ymburſſed</l>
+               <l>All that thow lyuyſt by? co<g ref="char:cmbAbbrStroke">̄</g>meth fro me wherfor I am ſory</l>
+               <l>And of thyne haue I nothynge it maketh my hart heuy</l>
+            </sp>
+            <sp>
+               <speaker>Wyntyr</speaker>
+               <l>Somer thow vnderſtondeſt not my dede &amp; my reaſon</l>
+               <l>Thou haſte good potage made with fleſhe of my ſeaſon</l>
+               <l>As the hogges that I ſlee that maketh the good bakon</l>
+               <l>The good brawne of my tyme is etyn afore thy venyſon</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:10052:3"/>
+               <speaker>Somer</speaker>
+               <l>Wynter god ſend the an euyll deſteny</l>
+               <l>For all that co<g ref="char:cmbAbbrStroke">̄</g>meth in thy tyme is not worth a peny</l>
+               <l>Nomore than a man ſcholde ſayle ouer the ſalte flode</l>
+               <l>And ware ſholde bryng ouer with hym nouther holſom nor gode</l>
+            </sp>
+            <sp>
+               <speaker>Wynter</speaker>
+               <l>Somer men make greate Ioy what tyme I com in</l>
+               <l>For co<g ref="char:cmbAbbrStroke">̄</g>panyes gadareth togyther on the eue of ſeynt martyn</l>
+               <l>Ther is nother great not ſmall but than they wyll drinke wyne</l>
+               <l>If they ſholde lay theyr cote to gage to drynke yt or it fyne</l>
+            </sp>
+            <sp>
+               <speaker>Somer</speaker>
+               <l>wynter in the moneth of may whan thou lurkyſt in bowre</l>
+               <l>I haue prymeroſes &amp; dayſes &amp; the wyolet ſlowre</l>
+               <l>The whych be for the trew louer and his ſwete leman</l>
+               <l>That go home ſyngyng &amp; make good chere as merely as they can</l>
+            </sp>
+            <sp>
+               <speaker>Wynter</speaker>
+               <l>Somer entend what I ſay it is of veryte</l>
+               <l>The hyeſt day in the yere is the Natiuyte</l>
+               <l>Than be capons on the table bred wyn &amp; clare</l>
+               <l>Many a bote is ſlayn agaynſt that tyme moch Ioy is made &amp; gle</l>
+            </sp>
+            <sp>
+               <speaker>Somer</speaker>
+               <l>Wynter in this tyme he that hath nought hym ſelf for to clouth</l>
+               <l>When it rayneth &amp; bloweth colde freſeth &amp; ſore ſnouth</l>
+               <l>All the pore comyns they lyue in great diſpleſer</l>
+               <l>The pore me<g ref="char:cmbAbbrStroke">̄</g>bres of god that haue ſo great payne to ſuffer</l>
+            </sp>
+            <sp>
+               <speaker>Wynter</speaker>
+               <l>Somer thou ſayeſt trouth a byde we the aduenture</l>
+               <l>Praynge that kynge / ſone of the virgyn pure</l>
+               <l>That he wyll geue vs ſuche hete after this great colde</l>
+               <l>That the pore comonalte may lyue in eaſe euer hym to beholde</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:10052:4"/>
+               <speaker>¶Somer</speaker>
+               <l>Wynter by one aſſent / our great ſtryfe let vs ceas</l>
+               <l>And togeder agre we / and make a fynall peas</l>
+               <l>God that create this worlde / &amp; made bothe the &amp; me</l>
+               <l>Let vs pray to hym to ſend vs a good ende / Amen for charite</l>
+            </sp>
+         </div>
+         <div type="poem">
+            <head>¶The tyme preſente of man</head>
+            <lg>
+               <l>¶The more helth he hath / the more he compleyneth</l>
+               <l>The more hardy he is / the more he feyneth</l>
+               <l>The more he loueth / the more he payneth</l>
+               <l>The more he is beleuyd / the more he lyeth</l>
+               <l>The more he hath wherwith / the leſſe he contenteth</l>
+               <l>The more he is reproued / the more he murmureth</l>
+               <l>The more hye of pryce / the leſſe tyme abydeth</l>
+               <l>The more mony he hath / the leſſe hym ſufyſeth</l>
+               <l>The more vnderſtonynge / the leſſe he well ſheweth</l>
+               <l>The more he hath done amiſſe / the leſſe he feryth</l>
+               <l>The more he contynueth the worſſe he lyueth</l>
+               <l>What ſhall god ſay to hym that this doeth</l>
+               <l>¶In a prynce loyalete</l>
+               <l>In a clarke humylite</l>
+               <l>In a prelate ſapience</l>
+               <l>In an aduocate eloquence</l>
+               <l>In <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cloth good coloure</l>
+               <l>In wyne good ſauoure</l>
+               <l>In a marchante to kepe his fayth</l>
+               <l>In a ſubiecte whan he obeith</l>
+               <l>In a woman good countenans</l>
+               <l>This is a very good ordynans</l>
+               <pb facs="tcp:10052:4"/>
+               <l>¶Larges of the frenche men</l>
+               <l>Loyalte of the ſcotiſh men</l>
+               <l>Clenlynes of the alman</l>
+               <l>Swerynge of the norman</l>
+               <l>Curſynge of the pickarde</l>
+               <l>Hardynes of the lombarde</l>
+               <l>Sapyence of the brytton</l>
+               <l>Conſyens of the burgonyon</l>
+               <l>Greate boſte of the begger</l>
+               <l>All is not worthe a poynte of lether</l>
+            </lg>
+            <lg>
+               <l>¶To tyſe betymes / hym ſelfe to recreate</l>
+               <l>To loke well to his owne / &amp; to kepe a ſobre eſtate</l>
+               <l>Longe or he ete / &amp; not to ſoupe late</l>
+               <l>To ley hye with his hede / &amp; to ſlepe moderate</l>
+               <l>Maketh man ryche / longe lyfe &amp; fortunate.</l>
+            </lg>
+         </div>
+         <trailer>Finis</trailer>
+      </body>
+      <back>
+         <div type="license">
+            <p>Cum priuilegio.</p>
+         </div>
+         <div type="colophon">
+            <p>¶Imprynted by me laurens andrew</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>¶Theſe bookes be for to ſell at the ſigne of ſeynt Iohn<g ref="char:cmbAbbrStroke">̄</g> Euangelyſt / in ſaynt Martyns paryſſhe beſyde Cha<g ref="char:EOLhyphen"/>rynge croſſe.</p>
+         </div>
+         <div type="printers_device">
+            <pb facs="tcp:10052:5"/>
+            <p>
+               <figure>
+                  <head>
+                     <figure/>
+                  </head>
+                  <figDesc>printer's device of Lawrence Andrewe (1527-30) on a shield within a frame</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:10052:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
